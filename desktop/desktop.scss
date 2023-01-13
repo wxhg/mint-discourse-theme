@@ -24,7 +24,7 @@ body:not(.navigation-categories):not(.navigation-topics) #main-outlet {
   width: 500px;
   height: 500px;
   border-radius: 2000px;
-  background: var(--mint-color-blue);
+  //background: var(--mint-color-blue);
   right: 1px;
   top: -57px;
 }
@@ -38,7 +38,7 @@ body:not(.navigation-categories):not(.navigation-topics) #main-outlet {
   height: 300px;
   border-radius: 30px;
   background: $color-square-webkit-gradient;
-  background: $color-square-gradient;
+  //background: $color-square-gradient;
   left: 70px;
   top: 350px;
   transform: rotate(74deg);
